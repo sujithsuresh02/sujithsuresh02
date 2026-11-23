@@ -1,204 +1,126 @@
-```{=html}
-<p align="center">
-```
-`<img
-    src="YOUR_DIRECT_GOOGLE_DRIVE_IMAGE_URL"
-    width="180"
-    alt="Sujith Suresh profile photo"
-  />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<h1 align="center">
-```
-Hi, I'm Sujith Suresh 👋
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Full Stack Software Engineer \| MERN \| Next.js \| Node.js \| NestJS \|
-TypeScript \| AI
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://www.linkedin.com/in/sujithsuresh02/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
-`</a>`{=html} `<a href="https://github.com/sujithsuresh02">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
 
-------------------------------------------------------------------------
+# 👋 Hi, I'm Sujith Suresh!
+
+### 🚀 Full Stack Software Engineer | MERN | Next.js | Node.js | NestJS | TypeScript | AI
+
+![Profile Views](https://komarev.com/ghpvc/?username=sujithsuresh02&color=blueviolet&style=flat-square)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujithsuresh02/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sujithsuresh02)
+
+---
 
 ## 👨‍💻 About Me
 
-Full Stack Software Engineer with **4+ years of experience** designing
-and developing scalable web applications, RESTful APIs, and SaaS
-platforms.
+Full Stack Software Engineer with **4+ years of experience** designing and developing scalable web applications, RESTful APIs, and SaaS platforms.
 
-I work across the stack, building responsive user interfaces, backend
-services, API integrations, and subscription-based product features.
+I specialize in building modern full-stack applications using JavaScript, TypeScript, React.js, Next.js, Node.js, NestJS, and Express.js.
 
--   💻 Full-stack development with the **MERN stack**.
--   ⚛️ Frontend development with **React.js, Next.js, TypeScript, Redux
-    Toolkit, and Tailwind CSS**.
--   ⚙️ Backend development with **Node.js, Express.js, and NestJS**.
--   🗄️ Database experience with **MongoDB, PostgreSQL, MySQL, and
-    Redis**.
--   💳 Payment and subscription integrations using **Stripe, Paddle,
-    Mollie, Square, and Razorpay**.
--   🤖 AI integrations using **OpenAI, Anthropic Claude, and Retell
-    AI**.
--   🔌 Third-party API integrations, webhooks, and recurring billing
-    workflows.
--   🏗️ Interested in clean architecture, system design, and building
-    reliable applications.
+- 💻 Full-stack development with the MERN stack.
+- ⚛️ Frontend development using React.js, Next.js, Redux Toolkit and Tailwind CSS.
+- ⚙️ Backend development using Node.js, Express.js and NestJS.
+- 🗄️ Database experience with MongoDB, PostgreSQL, MySQL and Redis.
+- 💳 Payment integrations using Stripe, Paddle, Mollie, Square and Razorpay.
+- 🤖 AI integrations using OpenAI, Anthropic Claude and Retell AI.
+- 🔌 Third-party API integrations, webhooks and subscription billing.
+- 🏗️ Interested in Clean Architecture, system design and scalable applications.
 
-------------------------------------------------------------------------
+---
 
 ## 🛠️ Technical Skills
 
-### Frontend
+### Frontend Development
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,materialui,vite" alt="Frontend technologies" />`{=html}
-```{=html}
-</p>
-```
-### Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" alt="Backend technologies" />`{=html}
-```{=html}
-</p>
-```
-### Databases
+### Backend Development
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" alt="Database technologies" />`{=html}
-```{=html}
-</p>
-```
-### Tools and Cloud
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
-```{=html}
-<p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" alt="Tools and cloud technologies" />`{=html}
-```{=html}
-</p>
-```
-### Additional Technologies
+### Database & Caching
 
--   **Architecture:** Clean Architecture, MVC, REST API design
--   **Messaging:** RabbitMQ
--   **Payments:** Stripe, Paddle, Mollie, Square, Razorpay
--   **AI:** OpenAI API, Anthropic Claude API, Retell AI
--   **Other:** Webhooks, JWT authentication, subscription billing
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
 
-------------------------------------------------------------------------
+### Tools & Technologies
 
-## 💼 Experience
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
 
-### Software Development Engineer II --- Eszmeletelen Holding Co.
+**Additional:** JWT, REST APIs, Webhooks, Clean Architecture, MVC, Stripe, Paddle, Mollie, Square, Razorpay, OpenAI, Claude and Retell AI.
 
-**October 2023 -- Present \| Thane, Maharashtra**
+---
+
+## 💼 Professional Experience
+
+### Software Development Engineer II
+**Eszmeletelen Holding Co. | October 2023 – Present**
 
 Working on **MakeForms**, a SaaS form builder platform.
 
--   Developing product features for dynamic forms, conditional logic,
-    and secure data capture.
--   Building and integrating backend APIs and third-party services.
--   Implementing payment gateway integrations, recurring subscriptions,
-    and billing workflows.
--   Developing webhook-based workflows for payment and application
-    events.
--   Building AI-powered form generation using OpenAI and Anthropic
-    Claude APIs, converting natural-language prompts into structured
-    form schemas and dynamic input fields.
--   Integrating Retell AI voice and chat agents to collect responses
-    through conversational experiences.
+- Developing dynamic forms with conditional logic and secure data capture.
+- Building backend APIs and integrating third-party services.
+- Implementing payment gateway integrations and subscription billing workflows.
+- Developing webhook-based payment and application workflows.
+- Building AI-powered form generation using OpenAI and Anthropic Claude APIs.
+- Converting natural-language prompts into structured form schemas and dynamic input fields.
+- Integrating Retell AI voice and chat agents for conversational data collection.
 
-------------------------------------------------------------------------
+---
 
 ## 🚀 Featured Projects
 
-### MakeForms
+### 1. MakeForms
 
-A SaaS form builder for creating dynamic forms with conditional logic
-and secure data collection. Includes AI-powered form generation,
-conversational data collection, payment integrations, and subscription
-workflows.
+A SaaS form builder platform featuring dynamic forms, conditional logic, secure data collection, AI-powered form generation, conversational data collection and payment integrations.
 
-**Technologies:** React.js, Node.js, TypeScript, MongoDB, OpenAI,
-Anthropic Claude, Retell AI, Stripe, Paddle, Mollie, Square.
+**Technologies:** React.js, Node.js, TypeScript, MongoDB, OpenAI, Claude, Retell AI, Stripe, Paddle, Mollie and Square.
 
-### Interview as a Service
+### 2. Interview as a Service
 
-An interview management platform with separate experiences for
-administrators, companies, interviewers, and students.
+An interview management platform with separate dashboards and workflows for administrators, companies, interviewers and students.
 
-**Technologies:** React.js, Node.js, Express.js, PostgreSQL, Sequelize.
+**Technologies:** React.js, Node.js, Express.js, PostgreSQL and Sequelize.
 
-------------------------------------------------------------------------
+---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
-```{=html}
 <p align="center">
-```
-`<img
-    src="https://github-readme-stats.vercel.app/api?username=sujithsuresh02&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Sujith's GitHub statistics"
-  />`{=html} `<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithsuresh02&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Most used programming languages"
-  />`{=html}
-```{=html}
+  <img src="https://github-readme-stats.vercel.app/api?username=sujithsuresh02&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithsuresh02&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img
-    src="https://streak-stats.demolab.com?user=sujithsuresh02&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />`{=html}
-```{=html}
+  <img src="https://streak-stats.demolab.com?user=sujithsuresh02&theme=tokyonight&hide_border=true" />
 </p>
-```
 
-------------------------------------------------------------------------
+---
 
-## 🤝 Connect With Me
+## 📈 Contribution Activity
 
-I'm interested in connecting with developers, collaborating on useful
-products, and exploring challenging full-stack engineering
-opportunities.
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sujithsuresh02&theme=tokyo-night&hide_border=true)](https://github.com/sujithsuresh02)
 
-```{=html}
-<p>
-```
-`<a href="https://www.linkedin.com/in/sujithsuresh02/">`{=html}LinkedIn`</a>`{=html}
-·
-`<a href="https://github.com/sujithsuresh02">`{=html}GitHub`</a>`{=html}
-```{=html}
-</p>
-```
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, collaborating on interesting projects and exploring new opportunities.
+
+- 💼 LinkedIn: [Sujith Suresh](https://www.linkedin.com/in/sujithsuresh02/)
+- 🐙 GitHub: [sujithsuresh02](https://github.com/sujithsuresh02)
+
 ⭐ Thanks for visiting my profile!
