@@ -116,11 +116,26 @@ An interview management platform with separate dashboards and workflows for admi
 
 ---
 
+
+---
+
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, collaborating on interesting projects and exploring new opportunities.
+<p align="left">
+  <a href="https://www.linkedin.com/in/sujithsuresh02/">
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT%20WITH%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sujithsuresh02@outlook.com">
+    <img src="https://img.shields.io/badge/EMAIL-CONTACT%20ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/sujithsuresh02">
+    <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 💼 LinkedIn: [Sujith Suresh](https://www.linkedin.com/in/sujithsuresh02/)
-- 🐙 GitHub: [sujithsuresh02](https://github.com/sujithsuresh02)
+---
 
-⭐ Thanks for visiting my profile!
+### 💡 "Building scalable products, solving complex problems, and integrating AI into modern applications."
+
+⭐ Feel free to explore my repositories and connect with me!
+
