@@ -135,7 +135,6 @@ An interview management platform with separate dashboards and workflows for admi
 
 ---
 
-### 💡 "Building scalable products, solving complex problems, and integrating AI into modern applications."
+### 🤖 "Passionate about full-stack engineering, scalable backend systems, and AI-powered innovation."
 
-⭐ Feel free to explore my repositories and connect with me!
-
+⭐ Always open to learning, collaboration, and exciting engineering challenges!
