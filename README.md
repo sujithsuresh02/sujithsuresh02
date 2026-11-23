@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Sujith Suresh!
 
-### 🚀 Full Stack Software Engineer | JavaScript | React.js | MERN | Next.js | Node.js | NestJS | TypeScript | AI
+### 🚀 Full Stack Software Engineer | JavaScript | React.js | MERN | Next.js | Node.js  | TypeScript | AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sujithsuresh02/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/sujithsuresh02)
